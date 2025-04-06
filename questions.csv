@@ -1,0 +1,4 @@
+question,option1,option2,option3,option4,correct,type
+2 + 2 = ?,3,4,5,6,4,choice
+5 - 3 = ?,1,2,3,4,2,choice
+請輸入 10 的平方是多少,,,,,100,fill
